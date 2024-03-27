@@ -3,17 +3,17 @@ import CommentsList from './CommentsList';
 
 const CommentsData = [
     {
-    name:"Akshay Saini",
-    text: "Lorem ipsum",
+    name:"Mayank Jain",
+    text: "This is Namaste React Course",
     replies: [
         {
-            name:"Akshay Saini",
-    text: "Lorem ipsum",
+            name:"Mayank Jain",
+    text: "This is Namaste React Course",
     replies: [
         
             {
-                name:"Akshay Saini",
-        text: "Lorem ipsum",
+                name:"Mayank Jaini",
+        text: "This is Namaste React Course",
         replies: [
             {
                 
@@ -21,8 +21,8 @@ const CommentsData = [
         ]
             },
             {
-                name:"Akshay Saini",
-        text: "Lorem ipsum",
+                name:"Mayank Jain",
+        text: "This is Namaste React Course",
         replies: [
             {
                 
@@ -35,27 +35,12 @@ const CommentsData = [
     ]
 },
 {
-    name:"Akshay Saini",
-    text: "Lorem ipsum",
+    name:"Mayank Jain",
+    text: "This is Namaste React Course",
     replies: [
         {
-            name:"Akshay Saini",
-    text: "Lorem ipsum",
-    replies: [
-        {
-            
-        }
-    ]
-        }
-    ]
-},
-{
-    name:"Akshay Saini",
-    text: "Lorem ipsum",
-    replies: [
-        {
-            name:"Akshay Saini",
-    text: "Lorem ipsum",
+            name:"Mayank Jain",
+    text: "This is Namaste React Course",
     replies: [
         {
             
@@ -65,20 +50,35 @@ const CommentsData = [
     ]
 },
 {
-    name:"Akshay Saini",
-    text: "Lorem ipsum"
+    name:"Mayank Jain",
+    text: "This is Namaste React Course",
+    replies: [
+        {
+            name:"Mayank Jain",
+    text: "This is Namaste React Course",
+    replies: [
+        {
+            
+        }
+    ]
+        }
+    ]
 },
 {
-    name:"Akshay Saini",
-    text: "Lorem ipsum"
+    name:"Mayank Jain",
+    text: "This is Namaste React Course"
 },
 {
-    name:"Akshay Saini",
-    text: "Lorem ipsum"
+    name:"Mayank Jain",
+    text: "This is Namaste React Course"
 },
 {
-    name:"Akshay Saini",
-    text: "Lorem ipsum"
+    name:"Mayank Jain",
+    text: "This is Namaste React Course"
+},
+{
+    name:"Mayank Jain",
+    text: "This is Namaste React Course"
 },
 ];
 
